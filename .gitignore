@@ -20,6 +20,9 @@ desktop.ini
 *.tmp
 *.swp
 
+# node_modules
+node_modules/
+
 # ignore env files
 .env
 .env.*
