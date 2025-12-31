@@ -1,0 +1,28 @@
+# JetBrains IDEs (PhpStorm, WebStorm, etc.)
+.idea/
+
+# VS Code
+.vscode/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Atom
+.atom/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Optional: temp files created by IDE or OS
+*.tmp
+*.swp
+
+# ignore env files
+.env
+.env.*
+
+# keep env example file
+!.env.example
